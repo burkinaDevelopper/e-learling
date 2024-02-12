@@ -1,0 +1,55 @@
+.subscribe{
+    position: relative;
+    margin-bottom: 50px;
+}
+.position{
+    color: red;
+    position: absolute;
+    bottom: -50px;  
+}
+.success{
+    color: green;
+    position: absolute;
+    bottom: -30px; 
+}
+#budget{
+    color: red;
+}
+.contact-position{
+    color: red;
+}
+.form-contact{
+    position: relative;
+}
+.success-contact{
+    color: green;
+    position: absolute;
+    bottom:35px; 
+}
+#cours{
+    padding: 15px 0 15px 17px;
+    border-radius: 5px;
+    background: rgb(26, 25, 42);
+    color: rgb(114, 116, 117);
+    text-align:justify;
+    
+}
+#success-formation{
+    position: relative;
+}
+.success-formation{
+    color: green;
+    position: absolute;
+    bottom:15px; 
+    left: 50%;
+}
+@media screen and (max-width: 510px) {
+    header #title-first{
+        font-size: 1.2rem;
+    }
+    #title-first img{
+       height: 25px;
+    }
+}
+
+

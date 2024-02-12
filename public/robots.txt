@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin
+Allow: /accueil
+Allow: /formation
+Allow: /contact
+Allow: /register
+Allow: /login
+
+
